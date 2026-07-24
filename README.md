@@ -28,7 +28,7 @@ Business Sales Performance Analytics
 * Segment – Evaluate sales across different customer segments.
 * Ship Mode – Analyze sales based on shipping methods
 
-Dashboard
+📊 Dashboard
 
 <img width="765" height="433" alt="image" src="https://github.com/user-attachments/assets/ae3dd640-a2fe-4134-94c5-b646c2494844" />
 
